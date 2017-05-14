@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "354015801171",
+    "firebase_url": "https://open-your-mouth.firebaseio.com",
+    "project_id": "open-your-mouth",
+    "storage_bucket": "open-your-mouth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354015801171:android:0bb14c3cea2475f0",
+        "android_client_info": {
+          "package_name": "io.agora.openlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354015801171-1v2ej37pi5ll3avg7l4v6augmk24rnu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.agora.openlive",
+            "certificate_hash": "aa23a3327458ba232f43ea14563c216fc6c344f3"
+          }
+        },
+        {
+          "client_id": "354015801171-2caav8qi63auqs28sojntfhc3tlrbshu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkXV132nQO2dX9wJbPfTc3bFjL24pcS-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354015801171-2caav8qi63auqs28sojntfhc3tlrbshu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

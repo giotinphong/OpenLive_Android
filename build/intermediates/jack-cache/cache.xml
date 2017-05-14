@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/1b5bb504bea8ee6488ccc8c5d98a61cf4ce6686b/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c43b632a975c0e06fc7dba57c4204e9262417e73.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/caab520b5204ad5c4fb16cce185cc34429cbc82a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d1a88deb66546032c5d99c66163a4e0b0005ddc4.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/455f99c7aedf1e2f13f54a7521256174fc98e999/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e22f0e0abf45528d6e266fa6a18a25e8068f5041.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/fcc82aadbe217fcafea3191eb84dde0ee811abce/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-6d9fd16b12549d4d2f4dd3d23a9d0e4f24bf3864.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/5906aa2a7a41ecdb76edf1a4c5d49b8dbca92b56/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4f556effb134e85682148783d4e0933905487a9c.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/de4157159ef9cbfdb8ec0bf3523339310575aa6c/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c39e40cf9c5def7be1184194a03575a1dc5abb66.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/63668b55ef4526b023bde07e888e8c9b39b15e9d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ad29ac186fd8917d229eee913783ddc2b8c3d2d2.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/93774d50e11e576faca85147177a7488fc426113/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-26a50633d18c62d4ffa9f38d1615954ed369f21f.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/eb8774cb34ab932c924405207ebadcad80c6ca99/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-66c163fb485dfe56662ac56830fce7750c16d55b.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/5dce350e61d29435607192b6b1cf75c5c9ea6da2/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-bcc20002d898f3ae4b9fdc937ebebdf280ef23ac.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/slf4j-api-1.7.21-ea4cfcf3f7a9bac4c0a0060ff4997efadf15cec9.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/e7217e710af9b139c1e4614cc0d17ee366d3accd/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0fae0cff602cdc336759daeceb209912c4cab10c.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/37330a5b342ecfc4dab07d59a46f79de232d9a5a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-a4e957ac866cf9780077ce001192e18fb8d3c592.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/0f8000b4761dd951bf9a0140ddbe36e0ab48bbcc/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8048e6de506861c122b3d46aa383df5370024d06.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/520d71af3e13272aa57653117ec08a8f0951c883/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-46ec339adf60e11ac8a9e93a87a630e8cdee3421.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.0-1943edc9de2e871cf98d3c577e8229698c645416.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-5/33a8c805e9666fe904746e90b932b98386c133b9/logback-android-classic-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="33a8c805e9666fe904746e90b932b98386c133b9">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logback-android-classic-1.1.1-5-9e1616bf09f81d59bb4b09d0c8a071320649446a.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/bbf6904f121b22ac8530c9437e9b92c729c40dfe/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9571a9ee7da783fc63b998e3bc8894916dd609d6.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/libs/agora-rtc-sdk.jar"
+        revision="25.0.2"
+        sha1="2a809e23ac9f3f6473206abd7036be4b32e02a05">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/agora-rtc-sdk-24da0cb4c03e61ead3bbd06a0b4af8ecf84290dc.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/484edfc0d8d8de1609dc334d536c2fc38b2aef6d/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="62f4f5ff452045f1e98f8cdf449912cc1f602e01">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b0120fc7823f89b0b61bc682824cf1bdc07b3c96.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/63eea69ea3294d6b9c8d5f16e09f2d53a8db6cef/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8548aa6f47a2f5e30e199208d2e19e0e00e6dcfa.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/e7bd8d76029bc77de264249b086973fea70bc602/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-248e77174c11c41319167234ca3a45699126b8d3.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/67f216c34d87ce2368abf78c3652124402f60698/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ee354e8b43c7ca7233b901c0e21a933592eca14a">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8fccd4eab6fe1a8c09ac10f93593503baa863136.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/005f6940d6f1d1cf3afe1c7a5e5c1464f73a1fe4/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c5d3b893985ac9032553a25b6ceaa3ff6f7ea820.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/Documents/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        revision="25.0.2"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.0-alpha4-8463ef6f8eff8542f76020804da6d44940baa1f0.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/apktool-lib-1.4.4-3-d8f735af2a66e898c8d119f3e368f2418a349259.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/43721c1b5dc30c22256b96453687b0ae1a7fb8d7/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f52307f2c10c1e21e9028970b74f1cea2759380a.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/168dc8aed30c52a70dcc1476fa2e653c6157d643/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0a44e6b0281f0cb9fa82531ee1c5f85568259d67.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/02cd13f5f7375860abd440fb399d115e5bdb8f7a/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-bee0c103a52e60bc643ed7571f4395bda6849332.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-5/896dad3f097d92c60780b3e4fddf3378c14b298/logback-android-core-1.1.1-5.jar"
+        revision="25.0.2"
+        sha1="0896dad3f097d92c60780b3e4fddf3378c14b298">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logback-android-core-1.1.1-5-59c70a240a3a3a219ddef558029ef73529f8b976.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/8b5432b0b6e88633b36f277e82bab7263a8b8ec3/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-88aa89f4ce3e28ed4119b06f6879cca0b84ada4c.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/e7fc2d35787987f2a7d86f454350368c7d2359db/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0f4f7b8f31af4363d3fd956ca64be07166f3f2bc.jar" />
+    </item>
+    <item
+        jar="/Users/sonnguyen/.android/build-cache/53f595ec3d3fb46f57f49d28fb170162b987774c/output/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sonnguyen/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-4a7e68d12ad57538314d68a1ca6cb8f652ce4d4f.jar" />
+    </item>
+
+</items>

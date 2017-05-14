@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="agora_blue">#FF00A0EB</color>
+
+    <color name="colorPrimary">#f50f26</color>
+    <color name="colorPrimaryDark">#ba030d</color>
+    <color name="colorAccent">#fd8427</color>
+
+    <color name="lightColorAccent">#30FF4081</color>
+
+    <color name="dark_black">#CC262626</color>
+</resources>
