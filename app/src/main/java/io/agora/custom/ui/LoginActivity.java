@@ -33,6 +33,7 @@ public class LoginActivity extends AppCompatActivity {
     EditText edName,edPass;
     private FirebaseAuth mAuth;
     private FirebaseAuth.AuthStateListener mAuthListener;
+    //TODO: login with google,facebook
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         getWindow().requestFeature(Window.FEATURE_ACTION_BAR);
